@@ -1,0 +1,3 @@
+include ':Determinent'
+include ':app'
+rootProject.name = "MavenCentralLibrary"
